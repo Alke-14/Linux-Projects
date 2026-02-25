@@ -1,8 +1,7 @@
 # Server Performance Stats
 A bash script to analyse basic server performance stats.  
 
-<img width="500" height="auto" alt="Screenshot From 2026-02-19 13-31-18" src="https://github.com/user-attachments/assets/ad2b5729-d637-43f6-9b8f-f2457264a50e" />
-
+<img width="500" alt="Screenshot From 2026-02-19 13-31-18" src="https://github.com/user-attachments/assets/e3030168-21af-4692-b647-fc8edfe263f5" />
 
 
 ## Getting Started
